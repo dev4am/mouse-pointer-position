@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mouse_position:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mouse_position_jar</output-path>
+    <root id="archive" name="mouse_position.jar">
+      <element id="module-output" name="mouse-pointer-position" />
+    </root>
+  </artifact>
+</component>
